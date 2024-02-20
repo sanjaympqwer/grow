@@ -1,2 +1,3 @@
 # grow
 stocks trading
+loss
